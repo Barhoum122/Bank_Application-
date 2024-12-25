@@ -1,0 +1,4 @@
+United States of America,USD,US Dollar,1
+Afghanistan,AFN,Afghanistan Afghani,87
+Albania,ALL,Albania Lek(e),109
+

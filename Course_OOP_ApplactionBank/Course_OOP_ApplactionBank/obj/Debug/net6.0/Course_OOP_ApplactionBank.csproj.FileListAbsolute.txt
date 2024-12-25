@@ -1,0 +1,30 @@
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.exe
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.deps.json
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.runtimeconfig.json
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.dll
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\ref\Course_OOP_ApplactionBank.dll
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.pdb
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.csproj.AssemblyReference.cache
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.AssemblyInfoInputs.cache
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.AssemblyInfo.cs
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.csproj.CoreCompileInputs.cache
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.dll
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\ref\Course_OOP_ApplactionBank.dll
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.pdb
+D:\Project File C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.genruntimeconfig.cache
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.exe
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.deps.json
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.runtimeconfig.json
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.dll
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\ref\Course_OOP_ApplactionBank.dll
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\bin\Debug\net6.0\Course_OOP_ApplactionBank.pdb
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.csproj.AssemblyReference.cache
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.AssemblyInfoInputs.cache
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.AssemblyInfo.cs
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.csproj.CoreCompileInputs.cache
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.dll
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\ref\Course_OOP_ApplactionBank.dll
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.pdb
+D:\Project_File_C#\Course_OOP_ApplactionBank\Course_OOP_ApplactionBank\obj\Debug\net6.0\Course_OOP_ApplactionBank.genruntimeconfig.cache

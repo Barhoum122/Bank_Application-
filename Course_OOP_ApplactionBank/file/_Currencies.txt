@@ -1,0 +1,10 @@
+UpdateMode,United States,USD,US Dollar,1
+UpdateMode,Yemen,YER,Yemeni Rial,535
+UpdateMode,Japan,JPY,Japanese Yen,134.869995
+UpdateMode,Martinique,EUR,Euro,0.938000
+UpdateMode,Mauritania,MRU,Mauritania Ouguiya,37.680000
+UpdateMode,Mauritius,MUR,Mauritius Rupee,43.522999
+UpdateMode,Oman,OMR,Oman Rial,0.385000
+UpdateMode,Qatar,QAR,Qatari Rial,3.672000
+UpdateMode,Egypt,EGP,Egyptian Pound,24.591999
+UpdateMode,Saudi,SAR,Saudi Riyal,3.75
